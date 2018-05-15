@@ -1,0 +1,19 @@
+body{
+  background-image: url("../images/Photographer.jpg");
+  background-size: auto;
+}
+.column{
+  float: left;
+  width: 24px;
+  margin: 120px;
+  padding: 30px;
+}
+img{
+  width: 300px;
+}
+body{
+  text-align: center;
+}
+.column{
+  text-align: center;
+}
